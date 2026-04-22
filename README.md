@@ -42,7 +42,7 @@ win2012dev: # Minion ID
 
 
 ## Installation instructions
-clone, build, and install from https://gitlab.rentec.com/infrastructure-as-code/salt/saltwinshell
+clone, build, and install from https://github.com/nychef/saltwinshell
 
 Install on your working Salt Master:
 
